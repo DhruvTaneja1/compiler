@@ -1,0 +1,27 @@
+#Heading{
+    font-size: 50px;
+    font-weight: 500;
+}
+#lang{
+    float: right;
+    height: 50px;
+    width: 70px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+#text{
+    width: 95%;
+    height: 700px;
+}
+#output{
+    background-image: linear-gradient(black, rgb(72, 72, 70),rgb(19, 19, 19));
+    height: 300px;
+    color: white;
+}
+#compile{
+    background-color: rgb(201, 201, 61);
+    width: 80px;
+    height: 30px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
